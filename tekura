@@ -14,12 +14,12 @@ Throws: Throws right now are in a weird place, where performing them is often no
 
 WRENCH: No longer targets head or torso, instead only arms, escalating one from damaged to mangled. Can be punched after in any stance.
 SLAM: Can only be used on a prone target and gives scrambledbrains, but also immediately gives damagedhead if it is not present, and BLACKOUT if it is. Can be punched after in any stance. 
-HIPTHROW: New ab HPT; can be used with no requirements and knocks the target prone (not respecting mount), but if their torso is broken, it gives bruisedribs. Can be punched after in any stance. 
+HIPTHROW: New ab HPT; can be used with no requirements and knocks the target prone (not respecting mount), but if their torso is broken, it gives bruisedribs. Can be punched after in any stance. Slow.
 CHOKE: New AB CHT; can only be used vs prone target with damagedhead or better, deals damage over time, prevents HELDBREATH, prevents stand, and causes the effects of addiction. Writheable, two broken legs extends. Blocks all further kicks, throws, and stance changes until it is RELEASEd or writhe cures it. 
 BACKBREAKER: Unchanged. 
 
 New ABs: 
-FEINTKICK: Causes the target's parry and avoidance to be disabled for one combo. 
+FEINTKICK: Causes the target's parry and avoidance to be disabled for one combo. Fast. 
 SMASH: Not comboable, only usable vs a prone target, the monk straddles a leg and slams their fists into it, escalating a single leg break from damaged to mangled (left->right prio). 4.5s balance (so just about 4s in SCS + nimble, maybe slower?) 
 
 Affliction change: BRUISEDRIBS is now curable by restoration apply, after broken torso. 
