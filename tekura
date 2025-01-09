@@ -1,0 +1,27 @@
+Sweepkick: Under the following changes, swk has no place, and is honestly rather pointless anyway. It's annoying, and against any class that can mount it's borderline useless outside of as a finisher with the brief window given by kai surge.
+
+Stances: Each stance should be reworked to be more useful and desirable in the course of combat. Right now, stances like cat and rat are completely ignored, leaving dragon and scorpion at the core of combat, with the occasional broach into horse or bear in niche situations. This does not scream 'master of unarmned combat' or 'shifting stances throughout a fight'. Part and parcel to this change, stances should be changeable while on equilibrium and balance without any further cost to either (instead of after a combo)
+
+Dragon: Unchanged
+Scorpion: Balance+, enables SMASH (new ab) 
+Rat: 10% damage reduction, roundhouse breaks prismatic, causes SIDEKICK to prone (not respecting mount) if it breaks torso or hits a broken torso. 
+Bear: Unchanged but no more bal penalty
+Cat: 10% damage reduction, enables CHOKETHROW (new ab), no more balance penalty
+Eagle: HGK, bal+, and allow two non-axe kicks from this stance (such as HGK SNK)
+Horse: LEAP, causes punches to bypass parry. 
+
+Throws: Throws right now are in a weird place, where performing them is often not worth the balance economy. Solutions presented below.
+
+WRENCH: No longer targets head or torso, instead only arms, escalating one from damaged to mangled. Can be punched after in any stance.
+SLAM: Can only be used on a prone target and gives scrambledbrains, but also immediately gives damagedhead if it is not present, and BLACKOUT if it is. Can be punched after in any stance. 
+HIPTHROW: New ab HPT; can be used with no requirements and knocks the target prone (not respecting mount), but if their torso is broken, it gives bruisedribs. Can be punched after in any stance. 
+CHOKE: New AB CHT; can only be used vs prone target with damagedhead or better, deals damage over time, prevents HELDBREATH, prevents stand, and causes the effects of addiction. Writheable, two broken legs extends. Blocks all further kicks, throws, and stance changes until it is RELEASEd or writhe cures it. 
+BACKBREAKER: Unchanged. 
+
+New ABs: 
+FEINTKICK: Causes the target's parry and avoidance to be disabled for one combo. 
+SMASH: Not comboable, only usable vs a prone target, the monk straddles a leg and slams their fists into it, escalating a single leg break from damaged to mangled (left->right prio). 4.5s balance (so just about 4s in SCS + nimble, maybe slower?) 
+
+Affliction change: BRUISEDRIBS is now curable by restoration apply, after broken torso. 
+
+Conclusion of changes: Altering the use of stances presents new and interesting strategies to tekura monk, allowing them to engage deeper with the mechanics of limb salve combat and giving a valid route to scythe (two broken arms + choke throw) without relapsing afflictions (making this tactic unique to shikudo, who can use it better) without stuttering through steps. 
